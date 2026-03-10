@@ -6,3 +6,19 @@ html {
 body {
     background-color: brown;
 }
+
+h1 {
+    color:white;
+    font-family: "Brush Script MT", cursive;
+    font-size: 70px
+}
+
+a{
+    color:whitesmoke;
+    text-decoration:underline;
+}
+
+a:hover{
+    color:crimson;
+    text-decoration:line-through
+}
